@@ -4,28 +4,40 @@ public class Operadores {
 // String nomeCompleto = "LINGUAGEM" + "JAVA";
 
         //qual o resultado das expressoes abaixo?
-        String concatenacao ="?"; 
+       // String concatenacao ="?"; 
 
-        concatenacao = 1+1+1+"1";
+        //concatenacao = 1+1+1+"1";
 
-        System.out.println(concatenacao);
+        //System.out.println(concatenacao);
 
-        concatenacao = 1+"1"+1+1;
+        //concatenacao = 1+"1"+1+1;
 
-        System.out.println(concatenacao);
+        //System.out.println(concatenacao);
 
-        concatenacao = 1+"1"+1+"1";
+        //concatenacao = 1+"1"+1+"1";
 
-        System.out.println(concatenacao);
+        //System.out.println(concatenacao);
 
-        concatenacao = "1"+1+1+1;
+        //concatenacao = "1"+1+1+1;
         
-        System.out.println(concatenacao);
+        //System.out.println(concatenacao);
 
-        concatenacao = "1"+(1+1+1);
+        //concatenacao = "1"+(1+1+1);
 
-        System.out.println(concatenacao);
+        //System.out.println(concatenacao);
 
+
+//TORNANDO UM VALOR NEGATIVO
+      //  int numero = 5;
+      //  numero = - numero;
+      //  System.out.println(numero);
         
+
+//TORNANDO UM VALOR POSITIVO 
+        int numero = -5;
+        numero = numero * -1;
+        System.out.println(numero);
     }
 }
+
+
