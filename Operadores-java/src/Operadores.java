@@ -1,30 +1,30 @@
 public class Operadores {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //classe Operadores.java
 // String nomeCompleto = "LINGUAGEM" + "JAVA";
 
         //qual o resultado das expressoes abaixo?
-       // String concatenacao ="?"; 
+        String concatenacao ="?"; 
 
-        //concatenacao = 1+1+1+"1";
+        concatenacao = 1+1+1+"1";
 
-        //System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-        //concatenacao = 1+"1"+1+1;
+        concatenacao = 1+"1"+1+1;
 
-        //System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-        //concatenacao = 1+"1"+1+"1";
+        concatenacao = 1+"1"+1+"1";
 
-        //System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-        //concatenacao = "1"+1+1+1;
+        concatenacao = "1"+1+1+1;
         
-        //System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-        //concatenacao = "1"+(1+1+1);
+        concatenacao = "1"+(1+1+1);
 
-        //System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
 
 //TORNANDO UM VALOR NEGATIVO
@@ -34,9 +34,9 @@ public class Operadores {
         
 
 //TORNANDO UM VALOR POSITIVO 
-        int numero = -5;
-        numero = numero * -1;
-        System.out.println(numero);
+       // int numero = -5;
+      //  numero = numero * -1;
+      //  System.out.println(numero);
     }
 }
 
