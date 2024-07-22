@@ -1,7 +1,7 @@
 package estudos.gisele;
 public class OperadoresCondicionais {
     public static void main(String[] args) {
-        int a, b;
+        int a , b;
 
         a = 5;
         b = 6;
